@@ -1,2 +1,1 @@
-# Boostrap-project
-Tindog(A website for dogs to find the love of their life)
+TinDog Starting Files
